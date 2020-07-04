@@ -1,6 +1,8 @@
 
 
-
+function popUp(){
+    alert("We love Mehedy Sir")
+}
 function insertNumber(number){
 
     var exitingNumbers =  $('#result').val() ;
