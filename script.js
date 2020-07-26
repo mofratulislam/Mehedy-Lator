@@ -1,5 +1,4 @@
 
-// var presentValue = document.getElementById('result').value
 
 function popUp(){
     alert("We love Mehedy Sir")
